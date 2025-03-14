@@ -185,12 +185,6 @@ typora-copy-images-to: img
 
 
 # 投票
+[很有帮助](https://vote-svg.qytest.workers.dev/api/vote/41/voteUrl?optionId=169) | [没什么用](https://vote-svg.qytest.workers.dev/api/vote/41/voteUrl?optionId=170)
+
 ![投票结果](https://vote-svg.qytest.workers.dev/api/vote/41/result.svg)
-
-## 投票选项
-
-[很有帮助](https://vote-svg.qytest.workers.dev/api/vote/41/voteUrl?optionId=169)
-
-[没什么用](https://vote-svg.qytest.workers.dev/api/vote/41/voteUrl?optionId=170)
-
-
