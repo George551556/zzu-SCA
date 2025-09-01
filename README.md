@@ -181,7 +181,7 @@ typora-copy-images-to: img
 
 ## 补充
 
-若涉及的材料、办理地点、负责老师有更改，或有不清楚的地方可issue or PR 
+若涉及的材料、办理地点、负责老师有更改，或有不清楚的地方可[issue](https://github.com/George551556/zzu-SCA/issues)讨论 or PR 
 
 
 # 投票
