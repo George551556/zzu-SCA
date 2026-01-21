@@ -198,3 +198,6 @@ typora-copy-images-to: img
 <p align="center">
   <img src="https://vote-svg.qytest.workers.dev/api/vote/41/result.svg" alt="投票结果">
 </p>
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=George551556/zzu-SCA&type=date&legend=top-left)](https://www.star-history.com/#George551556/zzu-SCA&type=date&legend=top-left)
